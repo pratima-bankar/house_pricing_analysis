@@ -49,7 +49,6 @@ The dataset used in this project is obtained from [Kaggle](https://www.kaggle.co
    ```
    git clone https://github.com/pratima-bankar/House_pricing_analysis.git
    ```
-   ```
 2. Run the Jupyter Notebook to analyze data:
    ```
    jupyter notebook House_Pricing_Analysis.ipynb
