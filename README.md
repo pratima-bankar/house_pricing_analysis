@@ -6,15 +6,6 @@ This project analyzes housing prices using a dataset from Kaggle. The analysis i
 ## Dataset
 The dataset used in this project is obtained from [Kaggle](https://www.kaggle.com/datasets/yasserh/housing-prices-dataset/data). It contains 13 attributes for 545 properties, including price, area, bedrooms, bathrooms, stories, location, parking space, and more.
 
-## Project Structure
-```
-📂 House-Pricing-Analysis
-│── 📄 README.md            # Project documentation
-│── 📄 MA541_Project-3.ipynb  # Jupyter Notebook with the analysis
-│── 📂 data                 # Folder containing dataset
-│   ├── housing_prices.csv
-```
-
 ## Steps of Analysis
 
 ### 1. Data Preprocessing
@@ -53,12 +44,6 @@ The dataset used in this project is obtained from [Kaggle](https://www.kaggle.co
    ```
    jupyter notebook House_Pricing_Analysis.ipynb
    ```
-
-## Future Work
-- Improve model accuracy by feature engineering
-- Try advanced machine learning models (XGBoost, Neural Networks)
-- Explore time-series forecasting for housing trends
-
 ## Contributors
 - **Pratima Bankar**
 - **Kashmira Mahesh Sawant**
